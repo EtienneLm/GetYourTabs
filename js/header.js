@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("./pages/accessories/header.html")
+fetch("/GetYourTabs/pages/accessories/header.html")
     .then(response => response.text())
     .then(data => {
       document.getElementById("header-placeholder").innerHTML = data;
