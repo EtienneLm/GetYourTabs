@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("./accessories/scroll-top-btn.html")
+  fetch("./pages/accessories/scroll-top-btn.html")
     .then(response => response.text())
     .then(data => {
       document.getElementById("scroll-top-placeholder").innerHTML = data;
@@ -8,10 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       if (scrollBtn) {
         scrollBtn.addEventListener("click", () => {
-          window.scrollTo({
-            top: 0,
-            behavior: "smooth"
-          });
+          window.scrollTo({ top: 0, behavior: "smooth" });
         });
 
         window.addEventListener("scroll", () => {
