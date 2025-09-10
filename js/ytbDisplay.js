@@ -20,10 +20,10 @@ export function changeYtbDisplay() {
 
   const iconImg = changeYtbDisplayBtn.querySelector('img');
   if (ytbVisible) {
-    iconImg.src = "./assets/ytb-logo-2.svg";
+    iconImg.src = "/GetYourTabs/assets/ytb-logo-2.svg";
     iconImg.alt = "shown ytb logo";
   } else {
-    iconImg.src = "./assets/ytb-logo-1.svg";
+    iconImg.src = "/GetYourTabs/assets/ytb-logo-1.svg";
     iconImg.alt = "hidden ytb logo";
   }
 }

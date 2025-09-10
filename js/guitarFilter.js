@@ -8,13 +8,13 @@ export function cycleGuitarFilter() {
   const iconImg = changeGuitarDisplayBtn.querySelector("img");
 
   if (guitarFilterState === 1) {
-    iconImg.src = "./assets/guitar-icon-2.svg";
+    iconImg.src = "/GetYourTabs/assets/guitar-icon-2.svg";
     iconImg.alt = "acoustic guitar icon";
   } else if (guitarFilterState === 2) {
-    iconImg.src = "./assets/electric-guitar-icon-2.svg";
+    iconImg.src = "/GetYourTabs/assets/electric-guitar-icon-2.svg";
     iconImg.alt = "electric guitar icon";
   } else {
-    iconImg.src = "./assets/guitar-icon-1.svg";
+    iconImg.src = "/GetYourTabs/assets/guitar-icon-1.svg";
     iconImg.alt = "guitar icon";
   }
 }
