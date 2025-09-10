@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GetYourTabs</title>
+  <link rel="stylesheet" href="../styles/styles.css">
+  <link rel="stylesheet" href="../styles/search.css">
+  <link rel="stylesheet" href="../styles/see-tabs.css">
+  <link rel="stylesheet" href="../styles/accessories-styles/header.css">
+  <link rel="stylesheet" href="../styles/accessories-styles/footer.css">
+  <link rel="stylesheet" href="../styles/accessories-styles/scroll-top-btn.css">
+
+</head>
+
+<body>
+  <div id="header-placeholder"></div>
+  <div id="scroll-top-placeholder"></div>
+
+  <main class="page-content">
+    <h2>Here are all our tabs</h2>
+    <div class="search-block">
+      <div class="all-filters">
+        <div class="difficulty-filter filter-container">
+          <label for="difficulty-select">Difficulty:</label>
+          <select id="difficulty-select" class="filter-select">
+            <option value="all">All</option>
+            <option value="easy">Easy</option>
+            <option value="medium">Medium</option>
+            <option value="hard">Hard</option>
+            <option value="pro">Pro</option>
+          </select>
+        </div>
+
+        <div class="artist-filter filter-container">
+          <label for="artist-select">Artist:</label>
+          <select id="artist-select" class="filter-select">
+            <option value="all">All</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="tab-page bottom-btns">
+        <button id="change-songs-display-btn" class="tab-page change-songs-display-btn">
+          <img src="../assets/song-icon-1.svg" alt="song icon">
+        </button>
+        <button id="youtube-btn" class="tab-page youtube-btn">
+          <img src="../assets/ytb-logo-1.svg" alt="youtube logo">
+        </button>
+        <button id="guitar-type-btn" class="tab-page guitar-type-btn">
+          <img src="../assets/guitar-icon-1.svg" alt="guitar icon">
+        </button>
+      </div>
+    </div>
+
+    <div id="iframes-container"></div>
+  </main>
+
+  <div id="footer-placeholder"></div>
+
+  <script type="module" src="../js/seeTabs.js"></script>
+  <script src="../js/header.js"></script>
+  <script src="../js/footer.js"></script>
+  <script src="../js/scrollToTop.js"></script>
+  <script src="../js/darkMode.js"></script>
+
+</body>
+
+</html>

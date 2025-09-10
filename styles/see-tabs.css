@@ -1,0 +1,111 @@
+.all-filters {
+    /* margin-bottom: 1.5rem;
+    background: var(--light);
+    border-radius: 0.2rem;
+    box-shadow: 0 2px 8px rgba(65, 164, 195, 0.08); 
+    padding: 0.5rem 1rem;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    gap: 0.5rem;
+}
+
+.all-filters label {
+    font-weight: 600;
+    color: var(--primary);
+    font-size: 1rem;
+}
+
+.filter-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    width: 50%;
+}
+
+.filter-select {
+    padding: 0.25rem 0.4rem;
+    border: 2px solid var(--primary);
+    border-radius: 0.2rem;
+    font-size: 1rem;
+    background: var(--lightGray);
+    transition: border 0.2s;
+    width: 100%;
+    color: var(--dark);
+    font-weight: 500;
+    outline: none;
+}
+
+.filter-select:focus {
+    border-color: #3290ad;
+}
+
+/* #change-songs-display-btn {
+    font-size: 0.9rem;
+    width: 5.4rem;
+} */
+
+.tab-page.bottom-btns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 2.6rem;
+}
+
+.tab-page.change-songs-display-btn,
+.tab-page.youtube-btn,
+.tab-page.guitar-type-btn {
+    width: 20%;
+    height: 100%;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tab-page.change-songs-display-btn img {
+    height: 90%;
+}
+
+.tab-page.youtube-btn img {
+    height: 100%;
+}
+
+.tab-page.tab-page.guitar-type-btn img {
+    height: 90%;
+}
+
+
+.figma-thumb-wrapper {
+    /* position: relative; */
+    cursor: pointer;
+    width: auto;
+    background: #ffffff;
+    border-radius: 0.2rem;
+    border: 1px solid var(--primaryDark);
+    box-shadow: 0 2px 8px rgba(65, 164, 195, 0.08);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    margin-bottom: 0.6rem;
+
+    & img {
+        max-height: 8rem;
+    }
+
+    .song-name {
+        font-weight: bold;
+        font-size: 1.2rem;
+        margin-bottom: 0.5rem;
+        color: var(--primary);
+    }
+
+    .artist-name {
+        color: var(--gray);
+        font-weight: bold;
+        font-size: 1rem;
+    }
+}

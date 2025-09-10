@@ -1,0 +1,12 @@
+.artist-card {
+  border-bottom: 1px solid var(--gray);
+  padding: 1rem 0;
+
+  &:last-of-type {
+    border: none;
+  }
+}
+
+.artist-card h3 {
+  margin-bottom: 0.5rem;
+}
