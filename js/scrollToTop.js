@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("./pages/accessories/scroll-top-btn.html")
+  fetch("/GetYourTabs/pages/accessories/scroll-top-btn.html")
     .then(response => response.text())
     .then(data => {
       document.getElementById("scroll-top-placeholder").innerHTML = data;
