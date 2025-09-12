@@ -1,7 +1,7 @@
 let isPlaying = false;
 let bpm = 100; // default tempo
 let intervalId;
-const audio = new Audio("../assets/metronome-click.mp3");
+const audio = new Audio("/GetYourTabs/assets/metronome-click.mp3");
 
 const metronomeBtn = document.getElementById("metronome-btn");
 
@@ -47,11 +47,12 @@ if (metronomeBtn) {
     if (isPlaying) {
       startMetronome();
       bpmControl.style.display = "block";
-      metronomeBtn.querySelector("img").src = "../assets/metronome-2.png"; // on
+      metronomeBtn.querySelector("img").src = "/GetYourTabs/assets/metronome-2.png"; // on
     } else {
       stopMetronome();
       bpmControl.style.display = "none";
-      metronomeBtn.querySelector("img").src = "../assets/metronome-1.png"; // off
+      metronomeBtn.querySelector("img").src = "/GetYourTabs/assets/metronome-1.png"; // off
     }
   });
 }
+
