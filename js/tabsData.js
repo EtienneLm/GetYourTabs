@@ -5,6 +5,7 @@ export const tabsData = [
     artist: "Indochine",
     difficulty: "easy",
     guitarType: ["acoustic", "electric"],
+    bpm: 110,
     src: "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=1-150&embed-host=share",
     songPresentation:
       "https://open.spotify.com/embed/track/2QSAj76Ba6aMFX9RlXdUdO?utm_source=generator",
@@ -18,6 +19,7 @@ export const tabsData = [
     artist: "Bob Dylan",
     difficulty: "easy",
     guitarType: ["acoustic"],
+    bpm: 66,
     src: "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=13-4126&embed-host=share",
     songPresentation:
       "https://open.spotify.com/embed/track/6HSXNV0b4M4cLJ7ljgVVeh?utm_source=generator",
@@ -31,6 +33,7 @@ export const tabsData = [
     artist: "Justin Bieber",
     difficulty: "medium",
     guitarType: ["acoustic", "electric"],
+    bpm: 100,
     src: "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=7-4652&embed-host=share",
     songPresentation:
       "https://open.spotify.com/embed/track/50kpGaPAhYJ3sGmk6vplg0?utm_source=generator",
@@ -44,6 +47,7 @@ export const tabsData = [
     artist: "Oasis",
     difficulty: "medium",
     guitarType: ["acoustic"],
+    bpm: 87,
     src: "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=11-3195&embed-host=share",
     songPresentation:
       "https://open.spotify.com/embed/track/1qPbGZqppFwLwcBC1JQ6Vr?utm_source=generator",
@@ -57,6 +61,7 @@ export const tabsData = [
     artist: "The Outfield",
     difficulty: "hard",
     guitarType: ["electric"],
+    bpm: 130,
     src: "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=50-5043&embed-host=share",
     songPresentation:
       "https://open.spotify.com/embed/track/0WoFs3EdGOx58yX5BtXvOa?utm_source=generator",
@@ -70,6 +75,7 @@ export const tabsData = [
     artist: "The Beatles",
     difficulty: "hard",
     guitarType: ["acoustic", "electric"],
+    bpm: 76,
     src: "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=3-2151&embed-host=share",
     songPresentation:
       "https://open.spotify.com/embed/track/7iN1s7xHE4ifF5povM6A48?utm_source=generator",
@@ -83,6 +89,7 @@ export const tabsData = [
     artist: "Tom Petty",
     difficulty: "easy",
     guitarType: ["acoustic"],
+    bpm: 84,
     src: "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=21-4478&embed-host=share",
     songPresentation:
       "https://open.spotify.com/embed/track/5tVA6TkbaAH9QMITTQRrNv?utm_source=generator",
@@ -96,6 +103,7 @@ export const tabsData = [
     artist: "Coldplay",
     difficulty: "medium",
     guitarType: ["acoustic"],
+    bpm: 137,
     src: "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=21-4478&embed-host=share",
     songPresentation:
       "https://open.spotify.com/embed/track/7D0RhFcb3CrfPuTJ0obrod?utm_source=generator",
@@ -109,6 +117,7 @@ export const tabsData = [
     artist: "Green Day",
     difficulty: "easy",
     guitarType: ["acoustic", "electric"],
+    bpm: 83,
     src: "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=1781-8244&embed-host=share",
     songPresentation:
       "https://open.spotify.com/embed/track/1hwJKpe0BPUsq6UUrwBWTw?utm_source=generator",
@@ -122,6 +131,7 @@ export const tabsData = [
     artist: "The Beatles",
     difficulty: "easy",
     guitarType: ["acoustic", "electric"],
+    bpm: 111,
     src: "",
     songPresentation:
       "https://open.spotify.com/embed/track/1tdltVUBkiBCW1C3yB4zyD?utm_source=generator",
