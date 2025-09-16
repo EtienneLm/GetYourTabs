@@ -117,4 +117,17 @@ export const tabsData = [
     ytbTutorial:
       "https://www.youtube.com/embed/uZ_D5CZL_r4?si=C9hA4RaUmMgrlXPL",
   },
+  {
+    song: "Yellow Submarine",
+    artist: "The Beatles",
+    difficulty: "easy",
+    guitarType: ["acoustic", "electric"],
+    src: "",
+    songPresentation:
+      "https://open.spotify.com/embed/track/1tdltVUBkiBCW1C3yB4zyD?utm_source=generator",
+    artistPresentation:
+      "https://open.spotify.com/embed/artist/3WrFJ7ztbogyGnTHbHJFl2?utm_source=generator",
+    ytbTutorial:
+      "https://www.youtube.com/embed/uZ_D5CZL_r4?si=C9hA4RaUmMgrlXPL",
+  },
 ];
