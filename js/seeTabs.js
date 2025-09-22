@@ -26,7 +26,7 @@ function createFigmaPlaceholder(tab) {
 
   // Thumbnail
   const img = document.createElement("img");
-  img.src = "../assets/logo/figma-logo.svg";
+  img.src = "/GetYourTabs/assets/logo/figma-logo.svg";
   img.alt = "Tab preview";
 
   // Song name with difficulty icon
