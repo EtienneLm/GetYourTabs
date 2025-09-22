@@ -5,8 +5,8 @@ let state = 0; // 0 = off, 1 = metronome, 2 = drum
 const searchBlock = document.querySelector('.search-block');
 const metronomeBtn = document.getElementById("metronome-btn");
 
-const metronomeAudio = new Audio("../assets/audio/metronome-click.mp3");
-const drumAudio = new Audio("../assets/audio/drum.mp3");
+const metronomeAudio = new Audio("/GetYourTabs/assets/audio/metronome-click.mp3");
+const drumAudio = new Audio("/GetYourTabs/assets/audio/drum.mp3");
 
 // BPM control
 const bpmControl = document.createElement("div");
@@ -51,21 +51,21 @@ metronomeBtn.addEventListener("click", () => {
     case 0: // off
       stopInterval();
       bpmControl.style.display = "none";
-      metronomeBtn.querySelector("img").src = "../assets/icons/metronome-1.svg";
+      metronomeBtn.querySelector("img").src = "/GetYourTabs/assets/icons/metronome-1.svg";
       if (searchBlock) searchBlock.classList.remove('bpm-active');
       break;
     case 1: // metronome click
       stopInterval();
       startInterval();
       bpmControl.style.display = "block";
-      metronomeBtn.querySelector("img").src = "../assets/icons/metronome-2.svg";
+      metronomeBtn.querySelector("img").src = "/GetYourTabs/assets/icons/metronome-2.svg";
       if (searchBlock) searchBlock.classList.add('bpm-active');
       break;
     case 2: // drum loop
       stopInterval();
       startInterval();
       bpmControl.style.display = "block";
-      metronomeBtn.querySelector("img").src = "../assets/icons/drum.svg";
+      metronomeBtn.querySelector("img").src = "/GetYourTabs/assets/icons/drum.svg";
       if (searchBlock) searchBlock.classList.add('bpm-active');
       break;
   }
@@ -82,9 +82,10 @@ export function setBpmAndStart(newBpm) {
   if (state === 0) {
     state = 1;
     bpmControl.style.display = "block";
-    metronomeBtn.querySelector("img").src = "../assets/icons/metronome-2.svg";
+    metronomeBtn.querySelector("img").src = "/GetYourTabs/assets/icons/metronome-2.svg";
     if (searchBlock) searchBlock.classList.add("bpm-active");
   }
 
   startInterval();
+
 }
