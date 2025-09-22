@@ -11,7 +11,7 @@ async function toggleTuner() {
   if (!isRunning) {
     // Start tuner
     isRunning = true;
-    startButtonImg.src = "../assets/icons/tuner-2.svg";
+    startButtonImg.src = "/GetYourTabs/assets/icons/tuner-2.svg";
 
     audioContext = new AudioContext();
     const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
@@ -25,7 +25,7 @@ async function toggleTuner() {
   } else {
     // Stop tuner
     isRunning = false;
-    startButtonImg.src = "../assets/icons/tuner-1.svg"; 
+    startButtonImg.src = "/GetYourTabs/assets/icons/tuner-1.svg"; 
 
     if (animationId) cancelAnimationFrame(animationId);
     if (source && source.mediaStream) {
@@ -113,3 +113,4 @@ function frequencyToNote(freq) {
     cents: cents
   };
 }
+
