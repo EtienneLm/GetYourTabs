@@ -20,10 +20,10 @@ export function changeSongsDisplay() {
 
   const iconImg = changeSongsDisplayBtn.querySelector("img");
   if (songsVisible) {
-    iconImg.src = "../assets/icons/song-icon-2.svg";
+    iconImg.src = "/GetYourTabs/assets/icons/song-icon-2.svg";
     iconImg.alt = "shown songs icon";
   } else {
-    iconImg.src = "../assets/icons/song-icon-1.svg";
+    iconImg.src = "/GetYourTabs/assets/icons/song-icon-1.svg";
     iconImg.alt = "hidden songs icon";
   }
 }
