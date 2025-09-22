@@ -1,0 +1,59 @@
+.search-block {
+    z-index: 2;
+}
+
+.blindtest-container {
+    align-self: center;
+}
+
+.blindtest-content {
+    position: relative;
+    width: fit-content;
+    height: 5rem;
+    background: antiquewhite;
+    transform: rotate(90deg);
+}
+
+.song-iframe {
+    width: 280px;
+    height: 80px;
+}
+
+.square-hider {
+    height: 5.4rem;
+    width: 18rem;
+    /* background: var(--lightDark); */
+    /* background: var(--primaryDark); */
+    position: absolute;
+    top: 0;
+    pointer-events: none;
+    margin-top: -3px;
+}
+
+.custom-play-btn {
+    position: absolute;
+    top: 40px;
+    right: 6px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: unset;
+    pointer-events: none;
+    transform: rotate(-90deg);
+}
+
+.custom-play-btn img {
+    height: auto;
+    width: inherit;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.play-text {
+    transform: rotate(-90deg);
+    color: var(--lightGray);
+    font-weight: bold;
+    align-self: center;
+    text-align: center;
+}

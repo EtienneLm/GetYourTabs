@@ -1,0 +1,23 @@
+.scroll-top-btn {
+    position: fixed;
+    bottom: 3.5rem;
+    right: 1rem;
+    z-index: 2122222; 
+    display: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+    pointer-events: auto; 
+}
+
+
+.scroll-top-btn.show {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.8;
+}
+
+.scroll-top-btn.show:hover {
+  opacity: 1;
+}

@@ -1,0 +1,86 @@
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.popup.hidden {
+  display: none;
+}
+
+.popup-content {
+  background: var(--lightGray);
+  border: 2px solid var(--primary);
+  padding: 20px;
+  border-radius: 10px;
+  width: 70%;
+  max-width: 400px;
+  position: relative;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+#popup-close {
+  position: absolute;
+  right: 0.5rem;
+  top: 0.2rem;
+  font-size: 1.7rem;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.info-btn {
+  background-color: unset;
+  padding: 0;
+  font-size: 1.2rem;
+}
+
+.popup-texts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px 20px;
+  text-align: center;
+}
+
+.popup-texts p {
+  margin: 0;
+}
+
+span#popup-chords {
+  word-break: break-word;
+}
+
+img.chord-image {
+    max-width: 14rem;
+    min-width: 8rem;
+}
+
+.chord-link, .artist-link, .album-link, .bpm-link {
+    text-decoration: underline;
+    font-weight: 600;
+    color: var(--primaryLight);
+}
+.chord-link:hover, .artist-link:hover, .album-link:hover, .bpm-link:hover {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.album-iframe {
+  margin-top: 10px;
+  border-radius: 8px;
+}
+
+
+/* Dark mode */ 
+body.dark-mode .popup-content {
+  background: var(--lightDark);
+  color: var(--lightGray);
+  border: 2px solid var(--primaryLight);
+}

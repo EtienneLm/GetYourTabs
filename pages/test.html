@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GetYourTabs</title>
+    <link rel="stylesheet" href="../styles/styles.css">
+    <link rel="stylesheet" href="../styles/test.css">
+    <link rel="stylesheet" href="../styles/tuner.css">
+    <link rel="stylesheet" href="../styles/accessories/header.css">
+    <link rel="stylesheet" href="../styles/accessories/footer.css">
+
+</head>
+
+<body>
+    <div id="header-placeholder"></div>
+
+    <main class="page-content">
+        <h2>Blind test</h2>
+        <div class="search-block">
+            <button class="pick-a-song">Pick a random song</button>
+        </div>
+
+        <div class="blindtest-container">
+            <div class="blindtest-content">
+                <iframe class="song-iframe" src="https://open.spotify.com/embed/track/3n3Ppam7vgaVa1iaRUc9Lp"
+                    frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                    loading="lazy">
+                </iframe>
+
+                <div class="square-hider"></div>
+                <p class="play-text"> click here to play the song</p>
+                <button id="custom-play-btn" class="custom-play-btn">
+                    <img src="../assets/icons/play-1.svg" alt="tuner icon">
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <div id="footer-placeholder"></div>
+
+    <script src="../js/tuner.js"></script>
+    <script src="../js/accessories/header.js"></script>
+    <script src="../js/accessories/footer.js"></script>
+    <script src="../js/buttons/darkMode.js"></script>
+    <script src="../js/test.js"></script>
+
+</body>
+
+</html>

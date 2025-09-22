@@ -1,0 +1,33 @@
+/* Search */
+
+.search-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* gap: 0.5rem; */
+}
+
+.search-container input {
+  padding: 0.75rem;
+  border: 2px solid var(--primary);
+  border-radius: 0.2rem;
+  font-size: 1rem;
+  background: var(--lightGray);
+  transition: border 0.2s;
+  width: 68%;
+}
+
+.search-container input:focus {
+  border-color: var(--primary);
+  outline: none;
+}
+
+
+.search-container button:hover {
+  background: #3290ad;
+  box-shadow: 0 2px 8px rgba(65, 164, 195, 0.13);
+}
+
+
+
+@media (max-width: 700px) {}

@@ -1,0 +1,192 @@
+[
+  {
+    "song": "J'ai demandé à la lune",
+    "artist": "Indochine",
+    "album": [
+      "Paradize",
+      "https://open.spotify.com/embed/album/0YiSd3JeGUX4VIO8Po9TD4?utm_source=generator"
+    ],
+    "genre": ["Rock", "Pop"],
+    "difficulty": "easy",
+    "guitarType": ["acoustic", "electric"],
+    "capo": 0,
+    "strummingPattern": "no",
+    "chords": [],
+    "bpm": 110,
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=1-150&embed-host=share",
+    "songPresentation": "https://open.spotify.com/embed/track/2QSAj76Ba6aMFX9RlXdUdO?utm_source=generator",
+    "artistPresentation": "https://open.spotify.com/embed/artist/7knmbOGe07k85GmK50vACB?utm_source=generator",
+    "ytbTutorial": "https://www.youtube.com/embed/_hzKjaygcfA?si=5BAjOR7lo0oJe0Cd"
+  },
+  {
+    "song": "Knockin' On Heaven's Door",
+    "artist": "Bob Dylan",
+    "album": [
+      "Pat Garrett & Billy the Kid",
+      "https://open.spotify.com/embed/album/2Pj2kZM5XpyIeyFBTAVulL?utm_source=generator"
+    ],
+    "genre": ["Folk", "Rock"],
+    "difficulty": "easy",
+    "guitarType": ["acoustic"],
+    "capo": 0,
+    "strummingPattern": "D-D-D-D-U",
+    "chords": ["G", "D", "Am", "C"],
+    "bpm": 66,
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=13-4126&embed-host=share",
+    "songPresentation": "https://open.spotify.com/embed/track/6HSXNV0b4M4cLJ7ljgVVeh?utm_source=generator",
+    "artistPresentation": "https://open.spotify.com/embed/artist/74ASZWbe4lXaubB36ztrGX?utm_source=generator",
+    "ytbTutorial": "https://www.youtube.com/embed/7WIhl7lTYy8"
+  },
+  {
+    "song": "Love Yourself",
+    "artist": "Justin Bieber",
+    "album": [
+      "Purpose",
+      "https://open.spotify.com/embed/album/6Fr2rQkZ383FcMqFyT7yPr?utm_source=generator"
+    ],
+    "genre": ["Pop", "Acoustic"],
+    "difficulty": "medium",
+    "guitarType": ["acoustic", "electric"],
+    "capo": 0,
+    "strummingPattern": "D-D-D-D-U",
+    "chords": [],
+    "bpm": 100,
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=7-4652&embed-host=share",
+    "songPresentation": "https://open.spotify.com/embed/track/50kpGaPAhYJ3sGmk6vplg0?utm_source=generator",
+    "artistPresentation": "https://open.spotify.com/embed/artist/1uNFoZAHBGtllmzznpCI3s?utm_source=generator",
+    "ytbTutorial": "https://www.youtube.com/embed/W2h2hGwiheg"
+  },
+  {
+    "song": "Wonderwall",
+    "artist": "Oasis",
+    "album": [
+      "(What's the Story) Morning Glory?",
+      "https://open.spotify.com/embed/album/2u30gztZTylY4RG7IvfXs8?utm_source=generator"
+    ],
+    "genre": ["Rock", "Britpop"],
+    "difficulty": "medium",
+    "guitarType": ["acoustic"],
+    "capo": 2,
+    "strummingPattern": "D-D-D-D-U",
+    "chords": ["Em7", "G", "Dsus4", "A7sus4", "Cadd9", "D/F#" ],
+    "bpm": 87,
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=11-3195&embed-host=share",
+    "songPresentation": "https://open.spotify.com/embed/track/1qPbGZqppFwLwcBC1JQ6Vr?utm_source=generator",
+    "artistPresentation": "https://open.spotify.com/embed/artist/2DaxqgrOhkeH0fpeiQq2f4?utm_source=generator",
+    "ytbTutorial": "https://www.youtube.com/embed/o8wM8inaqmo"
+  },
+  {
+    "song": "Your Love",
+    "artist": "The Outfield",
+    "album": [
+      "Play Deep",
+      "https://open.spotify.com/embed/album/0EriQlp6zHpb1ThLZcandW?utm_source=generator"
+    ],
+    "genre": ["Rock", "Pop"],
+    "difficulty": "hard",
+    "guitarType": ["electric"],
+    "capo": 0,
+    "strummingPattern": "D-DD-D-DD-D",
+    "chords": [],
+    "bpm": 130,
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=50-5043&embed-host=share",
+    "songPresentation": "https://open.spotify.com/embed/track/0WoFs3EdGOx58yX5BtXvOa?utm_source=generator",
+    "artistPresentation": "https://open.spotify.com/embed/artist/1zxDewzd2j1ZdSBGaYcr0y?utm_source=generator",
+    "ytbTutorial": ""
+  },
+  {
+    "song": "Let it Be",
+    "artist": "The Beatles",
+    "album": [
+      "Let It Be",
+      "https://open.spotify.com/embed/track/7iN1s7xHE4ifF5povM6A48?utm_source=generator"
+    ],
+    "genre": ["Rock", "Pop"],
+    "difficulty": "medium",
+    "guitarType": ["acoustic", "electric"],
+    "capo": 0,
+    "strummingPattern": "D-D-D-D-U",
+    "chords": ["C", "G", "Am", "F", "C/E", "Dm"],
+    "bpm": 76,
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=3-2151&embed-host=share",
+    "songPresentation": "https://open.spotify.com/embed/track/7iN1s7xHE4ifF5povM6A48?utm_source=generator",
+    "artistPresentation": "https://open.spotify.com/embed/artist/3WrFJ7ztbogyGnTHbHJFl2?utm_source=generator",
+    "ytbTutorial": "https://www.youtube.com/embed/w4W-NMu3dkc?si=TpRr6Zo-5_LqbllM"
+  },
+  {
+    "song": "Free Fallin'",
+    "artist": "Tom Petty",
+    "album": [
+      "Full Moon Fever",
+      "https://open.spotify.com/embed/album/5d71Imt5CIb7LpQwDMQ093?utm_source=generator"
+    ],
+    "genre": ["Rock", "Pop"],
+    "difficulty": "easy",
+    "guitarType": ["acoustic"],
+    "capo": 3,
+    "strummingPattern": "D",
+    "chords": ["D", "A"],
+    "bpm": 84,
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=21-4478&embed-host=share",
+    "songPresentation": "https://open.spotify.com/embed/track/5tVA6TkbaAH9QMITTQRrNv?utm_source=generator",
+    "artistPresentation": "https://open.spotify.com/embed/artist/2UZMlIwnkgAEDBsw1Rejkn?utm_source=generator",
+    "ytbTutorial": "https://www.youtube.com/embed/_GsPsmUX3ZY?si=ApbC_y-pZCGLGibK"
+  },
+  {
+    "song": "Sparks",
+    "artist": "Coldplay",
+    "album": [
+      "Parachutes",
+      "https://open.spotify.com/embed/album/6ZG5lRT77aJ3btmArcykra?utm_source=generator"
+    ],
+    "genre": ["Alternative Rock", "Acoustic"],
+    "difficulty": "medium",
+    "guitarType": ["acoustic"],
+    "capo": 6,
+    "strummingPattern": "D-D-U-D-U",
+    "chords": [],
+    "bpm": 137,
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=21-4478&embed-host=share",
+    "songPresentation": "https://open.spotify.com/embed/track/7D0RhFcb3CrfPuTJ0obrod?utm_source=generator",
+    "artistPresentation": "https://open.spotify.com/embed/artist/4gzpq5DPGxSnKTe4SA8HAU?utm_source=generator",
+    "ytbTutorial": "https://www.youtube.com/embed/ZXa1yZGaF38?si=_Y6cGrOClBvMpSm6"
+  },
+  {
+    "song": "Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "album": [
+      "American Idiot",
+      "https://open.spotify.com/embed/album/19ObsGobUuBr11M6ysFMug?utm_source=generator"
+    ],
+    "genre": ["Punk Rock", "Alternative"],
+    "difficulty": "medium",
+    "guitarType": ["acoustic", "electric"],
+    "capo": 2,
+    "strummingPattern": "D-D-D-D-U",
+    "chords": ["Em", "G", "D", "A", "Em7/B", "C", "B5"],
+    "bpm": 83,
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=1781-8244&embed-host=share",
+    "songPresentation": "https://open.spotify.com/embed/track/1hwJKpe0BPUsq6UUrwBWTw?utm_source=generator",
+    "artistPresentation": "https://open.spotify.com/embed/artist/7oPftvlwr6VrsViSDV7fJY?utm_source=generator",
+    "ytbTutorial": "https://www.youtube.com/embed/uZ_D5CZL_r4?si=C9hA4RaUmMgrlXPL"
+  },
+  {
+    "song": "Yellow Submarine",
+    "artist": "The Beatles",
+    "album": [
+      "Revolver",
+      "https://open.spotify.com/embed/album/0XRZpF083HqgygM0v1hQyE?utm_source=generator"
+    ],
+    "genre": ["Pop", "Rock"],
+    "difficulty": "easy",
+    "guitarType": ["acoustic", "electric"],
+    "capo": 0,
+    "strummingPattern": "D-D-D-D-U",
+    "chords": [],
+    "bpm": 111,
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=2152-12895&embed-host=share",
+    "songPresentation": "https://open.spotify.com/embed/track/1tdltVUBkiBCW1C3yB4zyD?utm_source=generator",
+    "artistPresentation": "https://open.spotify.com/embed/artist/3WrFJ7ztbogyGnTHbHJFl2?utm_source=generator",
+    "ytbTutorial": "https://www.youtube.com/embed/FoYdpMY5-q8?si=UhpJedwxs5mviO4P"
+  }
+]
