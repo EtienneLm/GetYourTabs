@@ -143,10 +143,10 @@
     "difficulty": "medium",
     "guitarType": ["acoustic"],
     "capo": 6,
-    "strummingPattern": "D-D-U-D-U",
-    "chords": [],
+    "strummingPattern": "D-DUDU",
+    "chords": ["Em", "Cmaj7"],
     "bpm": 137,
-    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=21-4478&embed-host=share",
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=2174-13701&embed-host=share",
     "songPresentation": "https://open.spotify.com/embed/track/7D0RhFcb3CrfPuTJ0obrod?utm_source=generator",
     "artistPresentation": "https://open.spotify.com/embed/artist/4gzpq5DPGxSnKTe4SA8HAU?utm_source=generator",
     "ytbTutorial": "https://www.youtube.com/embed/ZXa1yZGaF38?si=_Y6cGrOClBvMpSm6"
@@ -181,8 +181,8 @@
     "difficulty": "easy",
     "guitarType": ["acoustic", "electric"],
     "capo": 0,
-    "strummingPattern": "D-D-D-D-U",
-    "chords": [],
+    "strummingPattern": "D-D-D-D-D",
+    "chords": ["G", "D", "C", "Em", "Am"],
     "bpm": 111,
     "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=2152-12895&embed-host=share",
     "songPresentation": "https://open.spotify.com/embed/track/1tdltVUBkiBCW1C3yB4zyD?utm_source=generator",
@@ -190,3 +190,4 @@
     "ytbTutorial": "https://www.youtube.com/embed/FoYdpMY5-q8?si=UhpJedwxs5mviO4P"
   }
 ]
+
