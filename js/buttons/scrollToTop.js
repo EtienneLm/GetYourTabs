@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("./pages/accessories/scroll-top-btn.html")
+  const basePath = window.location.pathname.includes("/pages/") ? ".." : ".";
+  fetch(`${basePath}/pages/accessories/scroll-top-btn.html`)
     .then(response => response.text())
     .then(data => {
       document.getElementById("scroll-top-placeholder").innerHTML = data;
