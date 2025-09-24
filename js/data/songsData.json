@@ -31,7 +31,7 @@
     "capo": 0,
     "strummingPattern": "D-D-D-D-U",
     "chords": ["G", "D", "Am", "C"],
-    "bpm": 66,
+    "bpm": [66, 140],
     "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=13-4126&embed-host=share",
     "songPresentation": "https://open.spotify.com/embed/track/6HSXNV0b4M4cLJ7ljgVVeh?utm_source=generator",
     "artistPresentation": "https://open.spotify.com/embed/artist/74ASZWbe4lXaubB36ztrGX?utm_source=generator",
@@ -69,7 +69,7 @@
     "capo": 2,
     "strummingPattern": "D-D-D-D-U",
     "chords": ["Em7", "G", "Dsus4", "A7sus4", "Cadd9", "D/F#" ],
-    "bpm": 87,
+    "bpm": [87, 175],
     "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=11-3195&embed-host=share",
     "songPresentation": "https://open.spotify.com/embed/track/1qPbGZqppFwLwcBC1JQ6Vr?utm_source=generator",
     "artistPresentation": "https://open.spotify.com/embed/artist/2DaxqgrOhkeH0fpeiQq2f4?utm_source=generator",
@@ -107,7 +107,7 @@
     "capo": 0,
     "strummingPattern": "D-D-D-D-U",
     "chords": ["C", "G", "Am", "F", "C/E", "Dm"],
-    "bpm": 76,
+    "bpm": [76, 143],
     "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=3-2151&embed-host=share",
     "songPresentation": "https://open.spotify.com/embed/track/7iN1s7xHE4ifF5povM6A48?utm_source=generator",
     "artistPresentation": "https://open.spotify.com/embed/artist/3WrFJ7ztbogyGnTHbHJFl2?utm_source=generator",
@@ -144,8 +144,8 @@
     "guitarType": ["acoustic"],
     "capo": 6,
     "strummingPattern": "D-DUDU",
-    "chords": ["Em", "Cmaj7"],
-    "bpm": 137,
+    "chords": ["Em", "Eb+(b9#9)", "FM9(#11)", "C#m7(b5)", "Cmaj7", "D6(9,11)", "Am(add9)", "G6" ],
+    "bpm": [137, 103],
     "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=2174-13701&embed-host=share",
     "songPresentation": "https://open.spotify.com/embed/track/7D0RhFcb3CrfPuTJ0obrod?utm_source=generator",
     "artistPresentation": "https://open.spotify.com/embed/artist/4gzpq5DPGxSnKTe4SA8HAU?utm_source=generator",
@@ -164,7 +164,7 @@
     "capo": 2,
     "strummingPattern": "D-D-D-D-U",
     "chords": ["Em", "G", "D", "A", "Em7/B", "C", "B5"],
-    "bpm": 83,
+    "bpm": [83, 167],
     "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=1781-8244&embed-host=share",
     "songPresentation": "https://open.spotify.com/embed/track/1hwJKpe0BPUsq6UUrwBWTw?utm_source=generator",
     "artistPresentation": "https://open.spotify.com/embed/artist/7oPftvlwr6VrsViSDV7fJY?utm_source=generator",
@@ -190,4 +190,5 @@
     "ytbTutorial": "https://www.youtube.com/embed/FoYdpMY5-q8?si=UhpJedwxs5mviO4P"
   }
 ]
+
 
