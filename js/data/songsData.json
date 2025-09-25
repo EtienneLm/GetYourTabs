@@ -188,7 +188,27 @@
     "songPresentation": "https://open.spotify.com/embed/track/1tdltVUBkiBCW1C3yB4zyD?utm_source=generator",
     "artistPresentation": "https://open.spotify.com/embed/artist/3WrFJ7ztbogyGnTHbHJFl2?utm_source=generator",
     "ytbTutorial": "https://www.youtube.com/embed/FoYdpMY5-q8?si=UhpJedwxs5mviO4P"
+  },
+  {
+    "song": "Just Like Heaven",
+    "artist": "The Cure",
+    "album": [
+      "Kiss Me, Kiss Me, Kiss Me",
+      "https://open.spotify.com/embed/album/6qRV8jXFV1fZG0TizFOuTE?utm_source=generator"
+    ],
+    "genre": ["Pop", "Rock"],
+    "difficulty": "hard",
+    "guitarType": ["acoustic", "electric"],
+    "capo": 2,
+    "strummingPattern": "D-D-D-U-D-U-UDU-UDU",
+    "chords": ["G", "D", "Am", "C"],
+    "bpm": 150,
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=2213-15771&embed-host=share",
+    "songPresentation": "https://open.spotify.com/embed/track/4NnWuGQujzWUEg0uZokO5M?utm_source=generator",
+    "artistPresentation": "https://open.spotify.com/embed/artist/7bu3H8JO7d0UbMoVzbo70s?utm_source=generator",
+    "ytbTutorial": "https://www.youtube.com/embed/66MToVWIkAQ?si=bVjiovinTQujHfGG"
   }
 ]
+
 
 
