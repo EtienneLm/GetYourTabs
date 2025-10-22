@@ -48,7 +48,7 @@
     "difficulty": "medium",
     "guitarType": ["acoustic", "electric"],
     "capo": 0,
-    "strummingPattern": "D-D-D-D-U",
+    "strummingPattern": "no",
     "chords": [],
     "bpm": 100,
     "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=7-4652&embed-host=share",
@@ -207,8 +207,48 @@
     "songPresentation": "https://open.spotify.com/embed/track/4NnWuGQujzWUEg0uZokO5M?utm_source=generator",
     "artistPresentation": "https://open.spotify.com/embed/artist/7bu3H8JO7d0UbMoVzbo70s?utm_source=generator",
     "ytbTutorial": "https://www.youtube.com/embed/66MToVWIkAQ?si=bVjiovinTQujHfGG"
+  },
+
+   {
+    "song": "There Is a Light That Never Goes Out",
+    "artist": "The Smiths",
+    "album": [
+      "The Queen Is Dead",
+      "https://open.spotify.com/embed/album/5Y0p2XCgRRIjna91aQE8q7?utm_source=generator"
+    ],
+    "genre": ["Alternative Rock", "Indie Pop"],
+    "difficulty": "hard",
+    "guitarType": ["acoustic", "electric"],
+    "capo": 4,
+    "strummingPattern": "no",
+    "chords": ["Dm", "Fmaj7", "G", "Am7", "C", ""],
+    "bpm": 136,
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=2251-17561&embed-host=share",
+    "songPresentation": "https://open.spotify.com/embed/track/0WQiDwKJclirSYG9v5tayI?utm_source=generator",
+    "artistPresentation": "https://open.spotify.com/embed/artist/3yY2gUcIsjMr8hjo51PoJ8?utm_source=generator",
+    "ytbTutorial": "https://www.youtube.com/embed/R6WUGGqJTfE?si=hL8b7Bxbs9Y4UZhU"
+  },
+   {
+    "song": "Marry You",
+    "artist": "Bruno Mars",
+    "album": [
+      "Doo-Wops & Hooligans",
+      "https://open.spotify.com/embed/album/6J84szYCnMfzEcvIcfWMFL?utm_source=generator"
+    ],
+    "genre": ["Pop", "Soul"],
+    "difficulty": "easy",
+    "guitarType": ["acoustic"],
+    "capo": 3,
+    "strummingPattern": "D-D-U-U-D-U",
+    "chords": ["D", "Em", "G", "D"],
+    "bpm": 145,
+    "src": "https://embed.figma.com/design/2ZJCtBiPLagwG9vERbR1K2/Guitar-tabs?node-id=2263-20495&embed-host=share",
+    "songPresentation": "https://open.spotify.com/embed/track/6SKwQghsR8AISlxhcwyA9R?utm_source=generator",
+    "artistPresentation": "https://open.spotify.com/embed/artist/0du5cEVh5yTK9QJze8zA0C?utm_source=generator",
+    "ytbTutorial": "https://www.youtube.com/embed/66MToVWIkAQ?si=bVjiovinTQujHfGG"
   }
 ]
+
 
 
 
